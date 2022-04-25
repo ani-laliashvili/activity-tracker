@@ -3,7 +3,7 @@ import datetime
 
 # user input
 USERNAME = "habit-tracker-user"
-TOKEN = "sdfsdkdkfj2355sgd34535sfs"
+TOKEN = "01234567s"
 GRAPH = "graph1"
 
 pixela_endpoint = "https://pixe.la/v1/users"
